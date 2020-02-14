@@ -10,7 +10,7 @@ Goto [Twitter Apps](https://apps.twitter.com/). Create a new app and get the req
 
 ## Required dependencies
 
-* tweepy
+Þ* tweepy Þ
 * textblob
 * matplotlib
 
