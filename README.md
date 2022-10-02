@@ -2,7 +2,7 @@
 
 ## 📘 Description
 
-A program that extracts tweets about a specific topic and then report the sentiment of that topic based on the tweets. 
+A program that gathers tweets about a particular subject and then analyses them to report on the sentiment of that subject.
 
 ### 👨🏻‍🏫  Prerequisites
 
