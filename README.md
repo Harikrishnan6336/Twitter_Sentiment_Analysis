@@ -37,4 +37,4 @@ Then edit the main.py by replacing '#' with the required token keys. Then run th
 
 Please feel free to raise any issue...
 
-Also if you like the repository. Please consider starring the repo.
+Also if you like the repository. Please consider starring the repo. 🌟
