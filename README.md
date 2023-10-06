@@ -20,9 +20,9 @@ Then move to the working directory.
 ```cd Twitter_Sentiment_Analysis```
 
 First of all login from your Twitter account. 
-Goto [Twitter Apps](https://apps.twitter.com/). Create a new app and get the required api token keys.
+Goto [Twitter Apps](https://apps.twitter.com/). Create a new app and get the required API token keys.
 
-Then edit the main.py by replacing '#' with the required token keys. Then run the ```main.py```.
+Then edit the main.py by replacing '#' with the required API token keys. Then run the ```main.py```.
 
 ## Built With ❤️ 
 
