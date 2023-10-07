@@ -15,7 +15,7 @@ To install all the dependencies, run:
 👯 Clone the Repository:
 ```https://github.com/Harikrishnan6336/Twitter_Sentiment_Analysis.git```
 
-Then move to the working directory.
+Then move to the working directory
 
 ```cd Twitter_Sentiment_Analysis```
 
