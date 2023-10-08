@@ -119,6 +119,21 @@ class SentimentAnalysis:
         plt.tight_layout()
         plt.show()
 
+def DownloadData(self):
+        # authenticating
+        consumerKey = '#'
+        consumerSecret = '#'
+        accessToken = '#'
+        accessTokenSecret = '#'
+        auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
+        auth.set_access_token(accessToken, accessTokenSecret)
+        api = tweepy.API(auth)
+        cnt = 0
+        
+        # input for term to be searched and how many tweets to search
+        searchTerm = input("Enter Keyword to search about: ")
+        NoOfTerms = int(input("Enter the number of tweets to analyze: "))  # Prompt for the number of tweets to analyze
+
 
 
 if __name__== "__main__":
